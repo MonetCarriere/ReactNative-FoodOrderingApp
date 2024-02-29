@@ -2,9 +2,9 @@ import { StyleSheet, Text, View, Image } from 'react-native';
 import Colors from '../../constants/Colors'
 import products from '../../../assets/data/products'
 
-const product = products[0]
 
-const ProductListItem = () => {
+
+const ProductListItem = ({product}) => {
   return (
      <View style={styles.container}>
       <Image source={{uri: product.image}} style={styles.image}/>
@@ -18,7 +18,8 @@ const ProductListItem = () => {
 export default function MenuScreen() {
   return (
     <View>
-     <ProductListItem/>
+     <ProductListItem product={products[0]}/>
+     <ProductListItem product={products[1]}/>
     </View>
   );
 }
