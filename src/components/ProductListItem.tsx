@@ -12,15 +12,16 @@ type ProductListItemProps = {
 
 const ProductListItem = ({product} : ProductListItemProps) => {
   return (
-     <View style={styles.container}>
-      <Image source={{uri: product.image || defaultPizzaImage}} 
-      style={styles.image}
-      resizeMode="contain"
-      />
-      <Text style={styles.title}>{product.name}</Text>
-      <Text>{product.price}</Text>
-      <Link href={'/product'}>Go to details</Link>
-    </View>
+    <Link href={'/product'} asChild>
+      <View style={styles.container}>
+        <Image source={{uri: product.image || defaultPizzaImage}} 
+        style={styles.image}
+        resizeMode="contain"
+        />
+        <Text style={styles.title}>{product.name}</Text>
+        <Text>{product.price}</Text>
+      </View>
+    </Link>
   )
 }
 
