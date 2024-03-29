@@ -1,3 +1,5 @@
 
-<img width="860" alt="Screen Shot 2024-03-28 at 6 40 52 PM" src="https://github.com/MonetCarriere/ReactNative-FoodOrderingApp/assets/52170550/8d62b82b-5ae2-44db-89f8-ff3a57e606f7">
-<img width="864" alt="Screen Shot 2024-03-28 at 6 38 53 PM" src="https://github.com/MonetCarriere/ReactNative-FoodOrderingApp/assets/52170550/6b2b8acf-2c48-4ab5-92b2-83178fcca05d">
+<img width="1066" alt="Screen Shot 2024-03-28 at 6 45 52 PM" src="https://github.com/MonetCarriere/ReactNative-FoodOrderingApp/assets/52170550/25f238c3-b348-4639-9423-2016f4cab165">
+<img width="1067" alt="Screen Shot 2024-03-28 at 6 46 14 PM" src="https://github.com/MonetCarriere/ReactNative-FoodOrderingApp/assets/52170550/e10a3d3f-47e6-4009-9dcb-a8f35a6c4317">
+![Screen Shot 2024-03-28 at 6 46 46 PM](https://github.com/MonetCarriere/ReactNative-FoodOrderingApp/assets/52170550/1ca19974-9e51-4d57-ae4f-379ff9b2ce33)
+
